@@ -69,7 +69,7 @@ def eval_genomes(genomes, config):
 
             # Sonic fait du progress, fitness++
             if xpos > xpos_max:
-                fitness_current += 1
+                fitness_current += 2
                 xpos_max = xpos
 
             # Score, fitness +
@@ -89,7 +89,7 @@ def eval_genomes(genomes, config):
 
             # Sonic arrive a la fin du niveau
             if xpos == xpos_end:
-                fitness_current += 7000
+                fitness_current += 5000
                 print("WINNER")
                 done = True
 
