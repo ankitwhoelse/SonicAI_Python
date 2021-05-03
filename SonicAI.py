@@ -3,6 +3,9 @@ import numpy as np
 import cv2
 import neat
 import pickle
+import os
+from os import path
+import visualize
 
 env = retro.make('SonicTheHedgehog2-Genesis', 'EmeraldHillZone.Act1')
 
@@ -89,9 +92,8 @@ def eval_genomes(genomes, config):
 
             # Sonic arrive a la fin du niveau
             if xpos == xpos_end:
-                fitness_current += 5000
+                fitness_current += 5555
                 print("WINNER")
-                done = True
 
             # Compteur augmente si Sonic ne fait pas de progress
             if fitness_current > max_fitness:
@@ -112,9 +114,13 @@ config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
                     neat.DefaultSpeciesSet, neat.DefaultStagnation,
                     'config-feedforward')
 
+
 #Creer une population
 p = neat.Population(config)
 
+#Restaurer un checkpoint
+if (path.isfile('neat-checkpoint')):
+	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint')
 
 #Statistiques avec NEAT
 p.add_reporter(neat.StdOutReporter(True))
@@ -122,9 +128,23 @@ stats = neat.StatisticsReporter()
 p.add_reporter(stats)
 p.add_reporter(neat.Checkpointer(10))
 
-
-#Obtenir 
+#Trouver le genome gagnant et imprimer des statistiques
 winner = p.run(eval_genomes)
 
 with open('winner.pkl', 'wb') as output:
     pickle.dump(winner, output, 1)
+
+
+# Show output of the most fit genome against training data.
+#print('\nOutput:')
+winner_net = neat.nn.FeedForwardNetwork.create(winner, config)
+#for xi, xo in zip(xor_inputs, xor_outputs):
+#	output = winner_net.activate(xi)
+#	print("input {!r}, expected output {!r}, got {!r}".format(xi, xo, output))
+
+node_names = {-1:'A', -2: 'B', 0:'A XOR B'}
+visualize.draw_net(config, winner, True, node_names=node_names)
+visualize.plot_stats(stats, ylog=False, view=True)
+visualize.plot_species(stats, view=True)
+
+

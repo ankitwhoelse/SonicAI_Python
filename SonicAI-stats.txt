@@ -1631,3 +1631,31 @@ Saving checkpoint to neat-checkpoint-66
 
 WINNER
 Genome  360 	Fitness  9618 	Xpos  10656 	Score  10 	Rings  55
+
+ ****** Running generation 66 ****** 
+
+WINNER
+Genome  360 	Fitness  9750 	Xpos  11016 	Score  10 	Rings  55
+
+ ****** Running generation 66 ****** 
+
+WINNER
+Genome  360 	Fitness  10305 	Xpos  11016 	Score  10 	Rings  55
+Genome  207 	Fitness  4584 	Xpos  8006 	Score  30 	Rings  25
+Genome  134 	Fitness  4478 	Xpos  6831 	Score  60 	Rings  24
+Genome  461 	Fitness  1904 	Xpos  4262 	Score  20 	Rings  23
+Genome  462 	Fitness  2 	Xpos  96 	Score  0 	Rings  0
+Genome  463 	Fitness  2 	Xpos  96 	Score  0 	Rings  0
+Genome  464 	Fitness  1838 	Xpos  4390 	Score  0 	Rings  13
+Genome  465 	Fitness  2 	Xpos  96 	Score  0 	Rings  0
+Genome  466 	Fitness  1814 	Xpos  3622 	Score  10 	Rings  0
+Genome  467 	Fitness  1598 	Xpos  3454 	Score  10 	Rings  0
+Population's average fitness: 2652.70000 stdev: 2995.63122
+Best fitness: 10305.00000 - size: (14, 3471) - species 2 - id 360
+
+Best individual in generation 66 meets fitness threshold - complexity: (14, 3471)
+
+ ****** Running generation 66 ****** 
+
+WINNER
+Genome  360 	Fitness  10305 	Xpos  11016 	Score  10 	Rings  55
