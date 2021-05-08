@@ -7,7 +7,7 @@ import os
 from os import path
 import visualize
 
-env = retro.make('SonicTheHedgehog2-Genesis', 'EmeraldHillZone.Act1')
+env = retro.make('SonicTheHedgehog2-Genesis', 'EmeraldHillZone.Act2')
 
 imgarray = []
 
@@ -74,26 +74,30 @@ def eval_genomes(genomes, config):
             if xpos > xpos_max:
                 fitness_current += 2
                 xpos_max = xpos
+            # Sonic stagnate, fitness--
+            else if xpos = xpos_max:
+                fitness_current -= 1
 
-            # Score, fitness +
+            # ++Score, fitness++
             if score > score_max:
-                fitness_current += score*3
+                fitness_current += (score-score_max)*3
                 score_max = score
 
-            # + Rings, fitness++
+            # ++Rings, fitness++
             if rings > rings_max:
                 fitness_current += (rings-rings_max)*2
                 rings_max = rings
 
-            # - Rings, fitness--
+            # --Rings, fitness--
             if rings < rings_max:
-                fitness_current -= (rings_max-rings)*2
+                fitness_current -= (rings_max-rings)*3
                 rings_max = rings
 
             # Sonic arrive a la fin du niveau
-            if xpos == xpos_end:
-                fitness_current += 5555
-                print("WINNER")
+            if xpos > xpos_end:
+                fitness_current += 10000
+                print(" ~  WINNER  ~ ")
+                done = True
 
             # Compteur augmente si Sonic ne fait pas de progress
             if fitness_current > max_fitness:
@@ -112,15 +116,15 @@ def eval_genomes(genomes, config):
 #Fichier de configuration
 config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
                     neat.DefaultSpeciesSet, neat.DefaultStagnation,
-                    'config-feedforward')
+                    'config-SonicAI')
 
 
 #Creer une population
 p = neat.Population(config)
 
 #Restaurer un checkpoint
-if (path.isfile('neat-checkpoint')):
-	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint')
+if (path.isfile('neat-checkpoint-EMZ-A2')):
+	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint-EMZ-A2')
 
 #Statistiques avec NEAT
 p.add_reporter(neat.StdOutReporter(True))
@@ -129,22 +133,8 @@ p.add_reporter(stats)
 p.add_reporter(neat.Checkpointer(10))
 
 #Trouver le genome gagnant et imprimer des statistiques
-winner = p.run(eval_genomes)
+winner = p.run(eval_genomes, 100)
 
+#Sauvegarder gagnant
 with open('winner.pkl', 'wb') as output:
     pickle.dump(winner, output, 1)
-
-
-# Show output of the most fit genome against training data.
-#print('\nOutput:')
-winner_net = neat.nn.FeedForwardNetwork.create(winner, config)
-#for xi, xo in zip(xor_inputs, xor_outputs):
-#	output = winner_net.activate(xi)
-#	print("input {!r}, expected output {!r}, got {!r}".format(xi, xo, output))
-
-node_names = {-1:'A', -2: 'B', 0:'A XOR B'}
-visualize.draw_net(config, winner, True, node_names=node_names)
-visualize.plot_stats(stats, ylog=False, view=True)
-visualize.plot_species(stats, view=True)
-
-
