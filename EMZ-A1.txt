@@ -2172,5 +2172,3 @@ Best fitness: 14889.00000 - size: (14, 3350) - species 1 - id 95
 
 Best individual in generation 88 meets fitness threshold - complexity: (14, 3350)
 
- ****** Running generation 88 ****** 
-

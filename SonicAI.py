@@ -5,9 +5,8 @@ import neat
 import pickle
 import os
 from os import path
-import visualize
 
-env = retro.make('SonicTheHedgehog2-Genesis', 'EmeraldHillZone.Act2')
+env = retro.make('SonicTheHedgehog2-Genesis', 'EmeraldHillZone.Act1')
 
 imgarray = []
 
@@ -75,7 +74,7 @@ def eval_genomes(genomes, config):
                 fitness_current += 2
                 xpos_max = xpos
             # Sonic stagnate, fitness--
-            else if xpos = xpos_max:
+            if xpos == xpos_max:
                 fitness_current -= 1
 
             # ++Score, fitness++
@@ -123,8 +122,8 @@ config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
 p = neat.Population(config)
 
 #Restaurer un checkpoint
-if (path.isfile('neat-checkpoint-EMZ-A2')):
-	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint-EMZ-A2')
+if (path.isfile('neat-checkpoint-ehz-a1')):
+	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint-ehz-a1')
 
 #Statistiques avec NEAT
 p.add_reporter(neat.StdOutReporter(True))

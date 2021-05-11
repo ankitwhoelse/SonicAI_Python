@@ -1,0 +1,2269 @@
+
+ ****** Running generation 0 ****** 
+
+Genome  1 	Fitness  577 	Xpos  3388 	Score  0 	Rings  10
+Genome  2 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  3 	Fitness  -264 	Xpos  327 	Score  0 	Rings  1
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  6 	Fitness  -143 	Xpos  326 	Score  0 	Rings  0
+Genome  7 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  8 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  10 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Population's average fitness: -0.60000 stdev: 352.64010
+Best fitness: 743.00000 - size: (12, 6726) - species 1 - id 4
+Average adjusted fitness: 0.258
+Mean genetic distance 2.160, standard deviation 0.631
+Population of 10 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0     6    743.0    0.330     0
+     2    0     4     -4.0    0.186     0
+Total extinctions: 0
+Generation time: 179.164 sec
+
+ ****** Running generation 1 ****** 
+
+Genome  8 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  11 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  1 	Fitness  577 	Xpos  3388 	Score  0 	Rings  10
+Genome  10 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  12 	Fitness  599 	Xpos  3398 	Score  0 	Rings  10
+Genome  13 	Fitness  395 	Xpos  1630 	Score  0 	Rings  0
+Genome  14 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Population's average fitness: 169.00000 stdev: 359.61646
+Best fitness: 743.00000 - size: (12, 6726) - species 1 - id 4
+Average adjusted fitness: 0.397
+Mean genetic distance 2.254, standard deviation 0.558
+Population of 10 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1     7    743.0    0.656     1
+     2    1     3     -4.0    0.139     1
+Total extinctions: 0
+Generation time: 190.795 sec (184.979 average)
+Saving checkpoint to neat-checkpoint-1
+
+ ****** Running generation 2 ****** 
+
+Genome  8 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  12 	Fitness  599 	Xpos  3398 	Score  0 	Rings  10
+Genome  1 	Fitness  577 	Xpos  3388 	Score  0 	Rings  10
+Genome  15 	Fitness  80 	Xpos  1225 	Score  0 	Rings  0
+Genome  16 	Fitness  591 	Xpos  3385 	Score  0 	Rings  10
+Genome  17 	Fitness  596 	Xpos  3376 	Score  0 	Rings  10
+Genome  18 	Fitness  691 	Xpos  3373 	Score  0 	Rings  10
+Population's average fitness: 356.00000 stdev: 354.17651
+Best fitness: 743.00000 - size: (12, 6726) - species 1 - id 4
+Average adjusted fitness: 0.502
+Mean genetic distance 1.993, standard deviation 0.721
+Population of 10 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2     8    743.0    0.818     2
+     2    2     2     -4.0    0.186     2
+Total extinctions: 0
+Generation time: 244.037 sec (204.665 average)
+
+ ****** Running generation 3 ****** 
+
+Genome  8 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  18 	Fitness  691 	Xpos  3373 	Score  0 	Rings  10
+Genome  12 	Fitness  599 	Xpos  3398 	Score  0 	Rings  10
+Genome  19 	Fitness  649 	Xpos  3403 	Score  0 	Rings  10
+Genome  20 	Fitness  595 	Xpos  3392 	Score  0 	Rings  10
+Genome  21 	Fitness  282 	Xpos  1056 	Score  0 	Rings  5
+Genome  22 	Fitness  698 	Xpos  3326 	Score  0 	Rings  7
+Population's average fitness: 394.00000 stdev: 356.02500
+Best fitness: 743.00000 - size: (12, 6726) - species 1 - id 4
+Average adjusted fitness: 0.467
+Mean genetic distance 1.756, standard deviation 0.856
+Population of 11 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3     9    743.0    0.797     3
+     2    3     2    -14.0    0.137     3
+Total extinctions: 0
+Generation time: 234.992 sec (212.247 average)
+Saving checkpoint to neat-checkpoint-3
+
+ ****** Running generation 4 ****** 
+
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  23 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  22 	Fitness  698 	Xpos  3326 	Score  0 	Rings  7
+Genome  18 	Fitness  691 	Xpos  3373 	Score  0 	Rings  10
+Genome  24 	Fitness  -159 	Xpos  95 	Score  0 	Rings  0
+Genome  25 	Fitness  120 	Xpos  1655 	Score  0 	Rings  2
+Genome  26 	Fitness  87 	Xpos  346 	Score  0 	Rings  0
+Genome  27 	Fitness  555 	Xpos  3402 	Score  0 	Rings  10
+Genome  28 	Fitness  402 	Xpos  3509 	Score  0 	Rings  11
+Population's average fitness: 229.54545 stdev: 385.29903
+Best fitness: 743.00000 - size: (12, 6726) - species 1 - id 4
+Average adjusted fitness: 0.363
+Mean genetic distance 1.818, standard deviation 0.828
+Population of 10 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    4     7    743.0    0.590     4
+     2    4     3    -14.0    0.137     4
+Total extinctions: 0
+Generation time: 235.021 sec (216.802 average)
+
+ ****** Running generation 5 ****** 
+
+Genome  9 	Fitness  -14 	Xpos  90 	Score  0 	Rings  0
+Genome  5 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  29 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  22 	Fitness  698 	Xpos  3326 	Score  0 	Rings  7
+Genome  18 	Fitness  691 	Xpos  3373 	Score  0 	Rings  10
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  31 	Fitness  138 	Xpos  1689 	Score  0 	Rings  3
+Genome  32 	Fitness  127 	Xpos  358 	Score  0 	Rings  0
+Genome  33 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Population's average fitness: 229.90000 stdev: 441.89760
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+
+Species 2 with 3 members is stagnated: removing it
+Average adjusted fitness: 0.643
+Mean genetic distance 0.893, standard deviation 0.262
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    5    10    813.0    0.643     0
+Total extinctions: 0
+Generation time: 205.115 sec (214.854 average)
+Saving checkpoint to neat-checkpoint-5
+
+ ****** Running generation 6 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  22 	Fitness  698 	Xpos  3326 	Score  0 	Rings  7
+Genome  34 	Fitness  251 	Xpos  1623 	Score  0 	Rings  2
+Genome  35 	Fitness  221 	Xpos  1609 	Score  0 	Rings  1
+Genome  36 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  37 	Fitness  93 	Xpos  302 	Score  0 	Rings  0
+Genome  38 	Fitness  703 	Xpos  3247 	Score  0 	Rings  5
+Genome  39 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  40 	Fitness  79 	Xpos  333 	Score  0 	Rings  0
+Population's average fitness: 300.30000 stdev: 399.77045
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.539
+Mean genetic distance 0.913, standard deviation 0.330
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    6    10    813.0    0.539     1
+Total extinctions: 0
+Generation time: 226.102 sec (216.461 average)
+
+ ****** Running generation 7 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  38 	Fitness  703 	Xpos  3247 	Score  0 	Rings  5
+Genome  41 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  42 	Fitness  558 	Xpos  3381 	Score  0 	Rings  10
+Genome  43 	Fitness  731 	Xpos  3380 	Score  0 	Rings  10
+Genome  44 	Fitness  196 	Xpos  1102 	Score  0 	Rings  2
+Genome  45 	Fitness  80 	Xpos  321 	Score  0 	Rings  1
+Genome  46 	Fitness  143 	Xpos  1427 	Score  0 	Rings  0
+Genome  47 	Fitness  626 	Xpos  3384 	Score  0 	Rings  10
+Population's average fitness: 429.40000 stdev: 354.35158
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.655
+Mean genetic distance 0.910, standard deviation 0.324
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    7    10    813.0    0.655     2
+Total extinctions: 0
+Generation time: 263.774 sec (222.375 average)
+Saving checkpoint to neat-checkpoint-7
+
+ ****** Running generation 8 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  43 	Fitness  731 	Xpos  3380 	Score  0 	Rings  10
+Genome  48 	Fitness  716 	Xpos  3361 	Score  0 	Rings  5
+Genome  49 	Fitness  536 	Xpos  3404 	Score  0 	Rings  10
+Genome  50 	Fitness  -74 	Xpos  933 	Score  0 	Rings  0
+Genome  51 	Fitness  705 	Xpos  3381 	Score  0 	Rings  10
+Genome  52 	Fitness  87 	Xpos  350 	Score  0 	Rings  0
+Genome  53 	Fitness  38 	Xpos  1202 	Score  0 	Rings  1
+Genome  54 	Fitness  79 	Xpos  349 	Score  0 	Rings  0
+Population's average fitness: 437.40000 stdev: 339.39629
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.577
+Mean genetic distance 0.782, standard deviation 0.247
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    8    10    813.0    0.577     3
+Total extinctions: 0
+Generation time: 244.867 sec (224.874 average)
+
+ ****** Running generation 9 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  43 	Fitness  731 	Xpos  3380 	Score  0 	Rings  10
+Genome  55 	Fitness  595 	Xpos  3373 	Score  0 	Rings  10
+Genome  56 	Fitness  792 	Xpos  3385 	Score  0 	Rings  11
+Genome  57 	Fitness  333 	Xpos  1376 	Score  0 	Rings  1
+Genome  58 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  59 	Fitness  512 	Xpos  3404 	Score  0 	Rings  10
+Genome  60 	Fitness  569 	Xpos  3403 	Score  0 	Rings  10
+Genome  61 	Fitness  693 	Xpos  3404 	Score  0 	Rings  10
+Population's average fitness: 548.20000 stdev: 314.62352
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.762
+Mean genetic distance 0.779, standard deviation 0.214
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    9    10    813.0    0.762     4
+Total extinctions: 0
+Generation time: 265.732 sec (228.960 average)
+Saving checkpoint to neat-checkpoint-9
+
+ ****** Running generation 10 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  56 	Fitness  792 	Xpos  3385 	Score  0 	Rings  11
+Genome  4 	Fitness  743 	Xpos  3325 	Score  0 	Rings  12
+Genome  62 	Fitness  83 	Xpos  269 	Score  0 	Rings  0
+Genome  63 	Fitness  591 	Xpos  3373 	Score  0 	Rings  10
+Genome  64 	Fitness  392 	Xpos  3509 	Score  0 	Rings  11
+Genome  65 	Fitness  202 	Xpos  1692 	Score  0 	Rings  0
+Genome  66 	Fitness  315 	Xpos  1612 	Score  0 	Rings  3
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  68 	Fitness  97 	Xpos  326 	Score  0 	Rings  0
+Population's average fitness: 482.90000 stdev: 284.46984
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.548
+Mean genetic distance 1.027, standard deviation 0.186
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   10    10    813.0    0.548     5
+Total extinctions: 0
+Generation time: 270.709 sec (238.114 average)
+
+ ****** Running generation 11 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  56 	Fitness  792 	Xpos  3385 	Score  0 	Rings  11
+Genome  69 	Fitness  780 	Xpos  3336 	Score  0 	Rings  4
+Genome  70 	Fitness  93 	Xpos  357 	Score  0 	Rings  0
+Genome  71 	Fitness  88 	Xpos  317 	Score  0 	Rings  0
+Genome  72 	Fitness  650 	Xpos  3390 	Score  0 	Rings  10
+Genome  73 	Fitness  97 	Xpos  349 	Score  0 	Rings  0
+Genome  74 	Fitness  247 	Xpos  1658 	Score  0 	Rings  0
+Genome  75 	Fitness  521 	Xpos  3403 	Score  0 	Rings  10
+Population's average fitness: 488.20000 stdev: 305.87475
+Best fitness: 813.00000 - size: (13, 3871) - species 1 - id 30
+Average adjusted fitness: 0.552
+Mean genetic distance 1.005, standard deviation 0.306
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   11    10    813.0    0.552     6
+Total extinctions: 0
+Generation time: 232.544 sec (242.289 average)
+Saving checkpoint to neat-checkpoint-11
+
+ ****** Running generation 12 ****** 
+
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  56 	Fitness  792 	Xpos  3385 	Score  0 	Rings  11
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  77 	Fitness  281 	Xpos  1110 	Score  0 	Rings  0
+Genome  78 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  79 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  80 	Fitness  734 	Xpos  3370 	Score  0 	Rings  5
+Genome  81 	Fitness  581 	Xpos  3403 	Score  0 	Rings  10
+Genome  82 	Fitness  778 	Xpos  3385 	Score  0 	Rings  10
+Population's average fitness: 505.80000 stdev: 433.38639
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.685
+Mean genetic distance 1.189, standard deviation 0.203
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   12    10    876.0    0.685     0
+Total extinctions: 0
+Generation time: 253.328 sec (243.218 average)
+
+ ****** Running generation 13 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  83 	Fitness  758 	Xpos  3381 	Score  0 	Rings  4
+Genome  84 	Fitness  291 	Xpos  1089 	Score  0 	Rings  0
+Genome  85 	Fitness  225 	Xpos  1064 	Score  0 	Rings  3
+Genome  86 	Fitness  697 	Xpos  3376 	Score  0 	Rings  10
+Genome  87 	Fitness  63 	Xpos  1203 	Score  0 	Rings  0
+Genome  88 	Fitness  92 	Xpos  349 	Score  0 	Rings  0
+Genome  89 	Fitness  515 	Xpos  3435 	Score  0 	Rings  9
+Population's average fitness: 513.10000 stdev: 301.75601
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.554
+Mean genetic distance 0.919, standard deviation 0.337
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   13    10    876.0    0.554     1
+Total extinctions: 0
+Generation time: 245.656 sec (244.285 average)
+Saving checkpoint to neat-checkpoint-13
+
+ ****** Running generation 14 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  90 	Fitness  267 	Xpos  1126 	Score  0 	Rings  0
+Genome  91 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  92 	Fitness  98 	Xpos  346 	Score  0 	Rings  0
+Genome  93 	Fitness  -58 	Xpos  79 	Score  0 	Rings  0
+Genome  94 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  95 	Fitness  95 	Xpos  319 	Score  0 	Rings  0
+Genome  96 	Fitness  88 	Xpos  345 	Score  0 	Rings  0
+Population's average fitness: 238.20000 stdev: 422.18261
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.457
+Mean genetic distance 1.007, standard deviation 0.366
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   14    10    876.0    0.457     2
+Total extinctions: 0
+Generation time: 171.032 sec (237.886 average)
+
+ ****** Running generation 15 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  97 	Fitness  342 	Xpos  1581 	Score  0 	Rings  0
+Genome  98 	Fitness  86 	Xpos  315 	Score  0 	Rings  0
+Genome  99 	Fitness  293 	Xpos  1369 	Score  0 	Rings  1
+Genome  100 	Fitness  36 	Xpos  325 	Score  0 	Rings  0
+Genome  101 	Fitness  485 	Xpos  3403 	Score  0 	Rings  10
+Genome  102 	Fitness  236 	Xpos  1111 	Score  0 	Rings  2
+Genome  103 	Fitness  95 	Xpos  329 	Score  0 	Rings  0
+Population's average fitness: 406.30000 stdev: 305.05739
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.441
+Mean genetic distance 1.021, standard deviation 0.264
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   15    10    876.0    0.441     3
+Total extinctions: 0
+Generation time: 204.041 sec (237.779 average)
+Saving checkpoint to neat-checkpoint-15
+
+ ****** Running generation 16 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  104 	Fitness  362 	Xpos  1598 	Score  0 	Rings  0
+Genome  105 	Fitness  505 	Xpos  2264 	Score  0 	Rings  0
+Genome  106 	Fitness  90 	Xpos  342 	Score  0 	Rings  0
+Genome  107 	Fitness  257 	Xpos  1073 	Score  0 	Rings  0
+Genome  108 	Fitness  91 	Xpos  277 	Score  0 	Rings  0
+Genome  109 	Fitness  257 	Xpos  1111 	Score  0 	Rings  0
+Genome  110 	Fitness  695 	Xpos  3376 	Score  0 	Rings  10
+Population's average fitness: 474.70000 stdev: 288.81103
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.489
+Mean genetic distance 0.958, standard deviation 0.293
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   16    10    876.0    0.489     4
+Total extinctions: 0
+Generation time: 220.274 sec (237.196 average)
+
+ ****** Running generation 17 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  111 	Fitness  108 	Xpos  308 	Score  0 	Rings  5
+Genome  112 	Fitness  92 	Xpos  312 	Score  0 	Rings  0
+Genome  113 	Fitness  173 	Xpos  1661 	Score  0 	Rings  0
+Genome  114 	Fitness  709 	Xpos  3373 	Score  0 	Rings  10
+Genome  115 	Fitness  134 	Xpos  1725 	Score  0 	Rings  0
+Genome  116 	Fitness  313 	Xpos  1131 	Score  0 	Rings  2
+Genome  117 	Fitness  -17 	Xpos  1172 	Score  0 	Rings  0
+Population's average fitness: 400.20000 stdev: 337.23843
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.467
+Mean genetic distance 0.942, standard deviation 0.294
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   17    10    876.0    0.467     5
+Total extinctions: 0
+Generation time: 215.011 sec (232.319 average)
+Saving checkpoint to neat-checkpoint-17
+
+ ****** Running generation 18 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  118 	Fitness  492 	Xpos  3403 	Score  0 	Rings  10
+Genome  119 	Fitness  90 	Xpos  300 	Score  0 	Rings  0
+Genome  120 	Fitness  735 	Xpos  3381 	Score  0 	Rings  10
+Genome  121 	Fitness  711 	Xpos  2933 	Score  10 	Rings  1
+Genome  122 	Fitness  695 	Xpos  3399 	Score  0 	Rings  7
+Genome  123 	Fitness  777 	Xpos  3393 	Score  0 	Rings  9
+Genome  124 	Fitness  338 	Xpos  1610 	Score  0 	Rings  0
+Population's average fitness: 632.80000 stdev: 237.16990
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.691
+Mean genetic distance 1.073, standard deviation 0.297
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   18    10    876.0    0.691     6
+Total extinctions: 0
+Generation time: 265.671 sec (234.400 average)
+
+ ****** Running generation 19 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  125 	Fitness  721 	Xpos  3376 	Score  0 	Rings  5
+Genome  126 	Fitness  102 	Xpos  352 	Score  0 	Rings  0
+Genome  127 	Fitness  333 	Xpos  2805 	Score  0 	Rings  0
+Genome  128 	Fitness  87 	Xpos  354 	Score  0 	Rings  0
+Genome  129 	Fitness  101 	Xpos  327 	Score  0 	Rings  0
+Genome  130 	Fitness  278 	Xpos  1044 	Score  0 	Rings  2
+Genome  131 	Fitness  -125 	Xpos  95 	Score  0 	Rings  0
+Population's average fitness: 398.70000 stdev: 351.01882
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.523
+Mean genetic distance 1.148, standard deviation 0.309
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   19    10    876.0    0.523     7
+Total extinctions: 0
+Generation time: 218.518 sec (229.678 average)
+Saving checkpoint to neat-checkpoint-19
+
+ ****** Running generation 20 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  132 	Fitness  79 	Xpos  270 	Score  0 	Rings  0
+Genome  133 	Fitness  599 	Xpos  3376 	Score  0 	Rings  10
+Genome  134 	Fitness  560 	Xpos  3410 	Score  0 	Rings  10
+Genome  135 	Fitness  475 	Xpos  3404 	Score  0 	Rings  10
+Genome  136 	Fitness  502 	Xpos  3276 	Score  0 	Rings  10
+Genome  137 	Fitness  758 	Xpos  3403 	Score  0 	Rings  10
+Genome  138 	Fitness  594 	Xpos  3385 	Score  0 	Rings  10
+Population's average fitness: 605.70000 stdev: 220.20266
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.661
+Mean genetic distance 0.956, standard deviation 0.314
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   20    10    876.0    0.661     8
+Total extinctions: 0
+Generation time: 259.742 sec (228.582 average)
+
+ ****** Running generation 21 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  139 	Fitness  90 	Xpos  328 	Score  0 	Rings  0
+Genome  140 	Fitness  90 	Xpos  341 	Score  0 	Rings  0
+Genome  141 	Fitness  93 	Xpos  251 	Score  0 	Rings  0
+Genome  142 	Fitness  794 	Xpos  3383 	Score  0 	Rings  10
+Genome  143 	Fitness  286 	Xpos  1378 	Score  0 	Rings  5
+Genome  144 	Fitness  409 	Xpos  1406 	Score  0 	Rings  10
+Genome  145 	Fitness  94 	Xpos  237 	Score  0 	Rings  3
+Population's average fitness: 434.60000 stdev: 330.81300
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.438
+Mean genetic distance 1.138, standard deviation 0.379
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   21    10    876.0    0.438     9
+Total extinctions: 0
+Generation time: 217.307 sec (227.058 average)
+Saving checkpoint to neat-checkpoint-21
+
+ ****** Running generation 22 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  146 	Fitness  772 	Xpos  3376 	Score  0 	Rings  10
+Genome  147 	Fitness  301 	Xpos  1336 	Score  0 	Rings  1
+Genome  148 	Fitness  23 	Xpos  1172 	Score  0 	Rings  0
+Genome  149 	Fitness  274 	Xpos  1612 	Score  0 	Rings  0
+Genome  150 	Fitness  494 	Xpos  3404 	Score  0 	Rings  10
+Genome  151 	Fitness  593 	Xpos  3380 	Score  0 	Rings  10
+Genome  152 	Fitness  559 	Xpos  3383 	Score  0 	Rings  10
+Population's average fitness: 550.60000 stdev: 266.21390
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.619
+Mean genetic distance 0.960, standard deviation 0.306
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   22    10    876.0    0.619    10
+Total extinctions: 0
+Generation time: 241.957 sec (225.921 average)
+
+ ****** Running generation 23 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  67 	Fitness  801 	Xpos  3389 	Score  0 	Rings  5
+Genome  153 	Fitness  483 	Xpos  3404 	Score  0 	Rings  10
+Genome  154 	Fitness  228 	Xpos  1355 	Score  0 	Rings  0
+Genome  155 	Fitness  -122 	Xpos  95 	Score  0 	Rings  0
+Genome  156 	Fitness  258 	Xpos  2805 	Score  0 	Rings  1
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  158 	Fitness  95 	Xpos  346 	Score  0 	Rings  0
+Genome  159 	Fitness  92 	Xpos  148 	Score  0 	Rings  0
+Population's average fitness: 434.70000 stdev: 352.39808
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.558
+Mean genetic distance 1.068, standard deviation 0.160
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   23    10    876.0    0.558    11
+Total extinctions: 0
+Generation time: 214.779 sec (222.833 average)
+Saving checkpoint to neat-checkpoint-23
+
+ ****** Running generation 24 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  160 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  161 	Fitness  805 	Xpos  3382 	Score  0 	Rings  6
+Genome  162 	Fitness  275 	Xpos  1110 	Score  0 	Rings  0
+Genome  163 	Fitness  87 	Xpos  345 	Score  0 	Rings  0
+Genome  164 	Fitness  596 	Xpos  3393 	Score  0 	Rings  10
+Genome  165 	Fitness  344 	Xpos  1341 	Score  0 	Rings  3
+Genome  166 	Fitness  259 	Xpos  1136 	Score  0 	Rings  0
+Population's average fitness: 457.90000 stdev: 370.16252
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.644
+Mean genetic distance 0.922, standard deviation 0.338
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   24    10    876.0    0.644    12
+Total extinctions: 0
+Generation time: 218.121 sec (227.542 average)
+
+ ****** Running generation 25 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  167 	Fitness  88 	Xpos  328 	Score  0 	Rings  0
+Genome  168 	Fitness  594 	Xpos  3393 	Score  0 	Rings  10
+Genome  169 	Fitness  245 	Xpos  1304 	Score  0 	Rings  2
+Genome  170 	Fitness  282 	Xpos  1712 	Score  0 	Rings  0
+Genome  171 	Fitness  84 	Xpos  307 	Score  0 	Rings  0
+Genome  172 	Fitness  592 	Xpos  3385 	Score  0 	Rings  10
+Genome  173 	Fitness  20 	Xpos  1172 	Score  0 	Rings  0
+Population's average fitness: 441.70000 stdev: 318.23483
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.493
+Mean genetic distance 0.919, standard deviation 0.292
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   25    10    876.0    0.493    13
+Total extinctions: 0
+Generation time: 206.771 sec (227.815 average)
+Saving checkpoint to neat-checkpoint-25
+
+ ****** Running generation 26 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  174 	Fitness  577 	Xpos  3403 	Score  0 	Rings  10
+Genome  175 	Fitness  512 	Xpos  3403 	Score  0 	Rings  10
+Genome  176 	Fitness  282 	Xpos  1189 	Score  0 	Rings  0
+Genome  177 	Fitness  96 	Xpos  312 	Score  0 	Rings  0
+Genome  178 	Fitness  735 	Xpos  3403 	Score  0 	Rings  10
+Genome  179 	Fitness  686 	Xpos  3403 	Score  0 	Rings  10
+Genome  180 	Fitness  204 	Xpos  1691 	Score  0 	Rings  0
+Population's average fitness: 560.40000 stdev: 264.84758
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.595
+Mean genetic distance 0.950, standard deviation 0.306
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   26    10    876.0    0.595    14
+Total extinctions: 0
+Generation time: 227.002 sec (228.488 average)
+
+ ****** Running generation 27 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  30 	Fitness  813 	Xpos  3253 	Score  0 	Rings  10
+Genome  181 	Fitness  613 	Xpos  3303 	Score  0 	Rings  10
+Genome  182 	Fitness  455 	Xpos  1893 	Score  0 	Rings  10
+Genome  183 	Fitness  814 	Xpos  3379 	Score  0 	Rings  8
+Genome  184 	Fitness  82 	Xpos  324 	Score  0 	Rings  1
+Genome  185 	Fitness  -177 	Xpos  156 	Score  0 	Rings  1
+Genome  186 	Fitness  90 	Xpos  338 	Score  0 	Rings  0
+Genome  187 	Fitness  91 	Xpos  360 	Score  0 	Rings  1
+Population's average fitness: 448.00000 stdev: 373.95962
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.594
+Mean genetic distance 1.034, standard deviation 0.215
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   27    10    876.0    0.594    15
+Total extinctions: 0
+Generation time: 207.143 sec (227.701 average)
+Saving checkpoint to neat-checkpoint-27
+
+ ****** Running generation 28 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  183 	Fitness  814 	Xpos  3379 	Score  0 	Rings  8
+Genome  188 	Fitness  726 	Xpos  3390 	Score  0 	Rings  10
+Genome  189 	Fitness  740 	Xpos  3363 	Score  0 	Rings  6
+Genome  190 	Fitness  211 	Xpos  1662 	Score  0 	Rings  0
+Genome  191 	Fitness  89 	Xpos  287 	Score  0 	Rings  0
+Genome  192 	Fitness  36 	Xpos  1188 	Score  0 	Rings  0
+Genome  193 	Fitness  595 	Xpos  3403 	Score  0 	Rings  10
+Genome  194 	Fitness  342 	Xpos  1629 	Score  0 	Rings  0
+Population's average fitness: 525.20000 stdev: 307.95350
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.582
+Mean genetic distance 0.871, standard deviation 0.289
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   28    10    876.0    0.582    16
+Total extinctions: 0
+Generation time: 242.156 sec (225.350 average)
+
+ ****** Running generation 29 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  183 	Fitness  814 	Xpos  3379 	Score  0 	Rings  8
+Genome  195 	Fitness  88 	Xpos  346 	Score  0 	Rings  0
+Genome  196 	Fitness  77 	Xpos  1179 	Score  0 	Rings  0
+Genome  197 	Fitness  741 	Xpos  3381 	Score  0 	Rings  9
+Genome  198 	Fitness  14 	Xpos  1201 	Score  0 	Rings  1
+Genome  199 	Fitness  525 	Xpos  3404 	Score  0 	Rings  10
+Genome  200 	Fitness  635 	Xpos  3403 	Score  0 	Rings  10
+Genome  201 	Fitness  91 	Xpos  343 	Score  0 	Rings  0
+Population's average fitness: 468.40000 stdev: 341.08597
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.527
+Mean genetic distance 0.897, standard deviation 0.300
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   29    10    876.0    0.527    17
+Total extinctions: 0
+Generation time: 223.971 sec (225.895 average)
+Saving checkpoint to neat-checkpoint-29
+
+ ****** Running generation 30 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  183 	Fitness  814 	Xpos  3379 	Score  0 	Rings  8
+Genome  202 	Fitness  478 	Xpos  3403 	Score  0 	Rings  10
+Genome  203 	Fitness  512 	Xpos  3398 	Score  0 	Rings  10
+Genome  204 	Fitness  762 	Xpos  3371 	Score  0 	Rings  5
+Genome  205 	Fitness  93 	Xpos  345 	Score  0 	Rings  0
+Genome  206 	Fitness  385 	Xpos  1580 	Score  0 	Rings  5
+Genome  207 	Fitness  8 	Xpos  1173 	Score  0 	Rings  0
+Genome  208 	Fitness  591 	Xpos  3376 	Score  0 	Rings  10
+Population's average fitness: 534.20000 stdev: 288.28729
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.606
+Mean genetic distance 1.048, standard deviation 0.412
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   30    10    876.0    0.606    18
+Total extinctions: 0
+Generation time: 229.034 sec (222.824 average)
+
+ ****** Running generation 31 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  157 	Fitness  823 	Xpos  3393 	Score  0 	Rings  10
+Genome  183 	Fitness  814 	Xpos  3379 	Score  0 	Rings  8
+Genome  209 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  211 	Fitness  446 	Xpos  1539 	Score  0 	Rings  1
+Genome  212 	Fitness  645 	Xpos  3377 	Score  0 	Rings  10
+Genome  213 	Fitness  65 	Xpos  1231 	Score  0 	Rings  2
+Genome  214 	Fitness  827 	Xpos  3397 	Score  0 	Rings  6
+Genome  215 	Fitness  424 	Xpos  1586 	Score  0 	Rings  2
+Population's average fitness: 547.50000 stdev: 375.67626
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.720
+Mean genetic distance 1.333, standard deviation 0.234
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   31    10    876.0    0.720    19
+Total extinctions: 0
+Generation time: 237.309 sec (224.824 average)
+Saving checkpoint to neat-checkpoint-31
+
+ ****** Running generation 32 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  214 	Fitness  827 	Xpos  3397 	Score  0 	Rings  6
+Genome  216 	Fitness  382 	Xpos  3509 	Score  0 	Rings  13
+Genome  217 	Fitness  66 	Xpos  1408 	Score  0 	Rings  0
+Genome  218 	Fitness  216 	Xpos  1693 	Score  0 	Rings  0
+Genome  219 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  220 	Fitness  497 	Xpos  3403 	Score  0 	Rings  10
+Genome  221 	Fitness  96 	Xpos  189 	Score  0 	Rings  0
+Genome  222 	Fitness  589 	Xpos  3403 	Score  0 	Rings  10
+Population's average fitness: 410.40000 stdev: 372.26636
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.604
+Mean genetic distance 1.127, standard deviation 0.303
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   32    10    876.0    0.604    20
+Total extinctions: 0
+Generation time: 228.136 sec (223.442 average)
+
+ ****** Running generation 33 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  214 	Fitness  827 	Xpos  3397 	Score  0 	Rings  6
+Genome  223 	Fitness  84 	Xpos  224 	Score  0 	Rings  3
+Genome  224 	Fitness  592 	Xpos  3381 	Score  0 	Rings  10
+Genome  225 	Fitness  235 	Xpos  1101 	Score  0 	Rings  0
+Genome  226 	Fitness  743 	Xpos  3381 	Score  0 	Rings  10
+Genome  227 	Fitness  269 	Xpos  1079 	Score  0 	Rings  0
+Genome  228 	Fitness  255 	Xpos  1902 	Score  0 	Rings  3
+Genome  229 	Fitness  13 	Xpos  1172 	Score  0 	Rings  0
+Population's average fitness: 474.80000 stdev: 320.72100
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.535
+Mean genetic distance 1.049, standard deviation 0.351
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   33    10    876.0    0.535    21
+Total extinctions: 0
+Generation time: 229.402 sec (224.905 average)
+Saving checkpoint to neat-checkpoint-33
+
+ ****** Running generation 34 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  214 	Fitness  827 	Xpos  3397 	Score  0 	Rings  6
+Genome  230 	Fitness  506 	Xpos  3403 	Score  0 	Rings  10
+Genome  231 	Fitness  -67 	Xpos  933 	Score  0 	Rings  1
+Genome  232 	Fitness  828 	Xpos  3299 	Score  0 	Rings  7
+Genome  233 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  234 	Fitness  146 	Xpos  1804 	Score  0 	Rings  0
+Genome  235 	Fitness  371 	Xpos  2805 	Score  0 	Rings  5
+Genome  236 	Fitness  -5 	Xpos  933 	Score  0 	Rings  0
+Population's average fitness: 403.70000 stdev: 417.77699
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.598
+Mean genetic distance 1.095, standard deviation 0.355
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   34    10    876.0    0.598    22
+Total extinctions: 0
+Generation time: 249.597 sec (228.052 average)
+
+ ****** Running generation 35 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  232 	Fitness  828 	Xpos  3299 	Score  0 	Rings  7
+Genome  237 	Fitness  92 	Xpos  323 	Score  0 	Rings  0
+Genome  238 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  239 	Fitness  261 	Xpos  1601 	Score  0 	Rings  0
+Genome  240 	Fitness  -21 	Xpos  1198 	Score  0 	Rings  0
+Genome  241 	Fitness  92 	Xpos  317 	Score  0 	Rings  0
+Genome  242 	Fitness  268 	Xpos  1108 	Score  0 	Rings  2
+Genome  243 	Fitness  43 	Xpos  1196 	Score  0 	Rings  3
+Population's average fitness: 299.40000 stdev: 391.71883
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.509
+Mean genetic distance 1.181, standard deviation 0.337
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   35    10    876.0    0.509    23
+Total extinctions: 0
+Generation time: 215.933 sec (228.968 average)
+Saving checkpoint to neat-checkpoint-35
+
+ ****** Running generation 36 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  232 	Fitness  828 	Xpos  3299 	Score  0 	Rings  7
+Genome  244 	Fitness  749 	Xpos  3345 	Score  0 	Rings  3
+Genome  245 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  246 	Fitness  291 	Xpos  1173 	Score  0 	Rings  0
+Genome  247 	Fitness  201 	Xpos  1696 	Score  0 	Rings  0
+Genome  248 	Fitness  309 	Xpos  1620 	Score  0 	Rings  0
+Genome  249 	Fitness  32 	Xpos  1152 	Score  0 	Rings  1
+Genome  250 	Fitness  370 	Xpos  1585 	Score  0 	Rings  0
+Population's average fitness: 421.10000 stdev: 376.55184
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.613
+Mean genetic distance 1.058, standard deviation 0.343
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   36    10    876.0    0.613    24
+Total extinctions: 0
+Generation time: 232.308 sec (229.499 average)
+
+ ****** Running generation 37 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  232 	Fitness  828 	Xpos  3299 	Score  0 	Rings  7
+Genome  251 	Fitness  288 	Xpos  1055 	Score  0 	Rings  0
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  253 	Fitness  29 	Xpos  1203 	Score  0 	Rings  0
+Genome  254 	Fitness  710 	Xpos  3299 	Score  0 	Rings  3
+Genome  255 	Fitness  87 	Xpos  350 	Score  0 	Rings  0
+Genome  256 	Fitness  124 	Xpos  1273 	Score  0 	Rings  2
+Genome  257 	Fitness  94 	Xpos  343 	Score  0 	Rings  3
+Population's average fitness: 474.70000 stdev: 358.18851
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.526
+Mean genetic distance 1.015, standard deviation 0.315
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   37    10    876.0    0.526    25
+Total extinctions: 0
+Generation time: 237.220 sec (232.507 average)
+Saving checkpoint to neat-checkpoint-37
+
+ ****** Running generation 38 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  258 	Fitness  82 	Xpos  148 	Score  0 	Rings  0
+Genome  259 	Fitness  601 	Xpos  3380 	Score  0 	Rings  10
+Genome  260 	Fitness  60 	Xpos  1203 	Score  0 	Rings  0
+Genome  261 	Fitness  509 	Xpos  3402 	Score  0 	Rings  10
+Genome  262 	Fitness  40 	Xpos  1194 	Score  0 	Rings  0
+Genome  263 	Fitness  94 	Xpos  278 	Score  0 	Rings  0
+Genome  264 	Fitness  214 	Xpos  1649 	Score  0 	Rings  0
+Population's average fitness: 418.70000 stdev: 341.30369
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.453
+Mean genetic distance 0.869, standard deviation 0.283
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   38    10    876.0    0.453    26
+Total extinctions: 0
+Generation time: 217.700 sec (230.061 average)
+
+ ****** Running generation 39 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  265 	Fitness  146 	Xpos  1676 	Score  0 	Rings  0
+Genome  266 	Fitness  311 	Xpos  1434 	Score  0 	Rings  13
+Genome  267 	Fitness  346 	Xpos  3750 	Score  0 	Rings  10
+Genome  268 	Fitness  87 	Xpos  332 	Score  0 	Rings  0
+Genome  269 	Fitness  669 	Xpos  3380 	Score  0 	Rings  10
+Genome  270 	Fitness  614 	Xpos  3393 	Score  0 	Rings  10
+Genome  271 	Fitness  499 	Xpos  3402 	Score  0 	Rings  10
+Population's average fitness: 525.90000 stdev: 280.05587
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.556
+Mean genetic distance 0.878, standard deviation 0.269
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   39    10    876.0    0.556    27
+Total extinctions: 0
+Generation time: 250.074 sec (232.671 average)
+Saving checkpoint to neat-checkpoint-39
+
+ ****** Running generation 40 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  272 	Fitness  216 	Xpos  1642 	Score  0 	Rings  0
+Genome  273 	Fitness  535 	Xpos  3402 	Score  0 	Rings  10
+Genome  274 	Fitness  511 	Xpos  3403 	Score  0 	Rings  10
+Genome  275 	Fitness  89 	Xpos  327 	Score  0 	Rings  0
+Genome  276 	Fitness  414 	Xpos  1644 	Score  0 	Rings  0
+Genome  277 	Fitness  -42 	Xpos  16 	Score  0 	Rings  0
+Genome  278 	Fitness  625 	Xpos  3308 	Score  0 	Rings  6
+Population's average fitness: 493.50000 stdev: 310.06878
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.583
+Mean genetic distance 1.082, standard deviation 0.293
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   40    10    876.0    0.583    28
+Total extinctions: 0
+Generation time: 213.437 sec (231.112 average)
+
+ ****** Running generation 41 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  279 	Fitness  302 	Xpos  1089 	Score  0 	Rings  3
+Genome  280 	Fitness  816 	Xpos  3341 	Score  0 	Rings  9
+Genome  281 	Fitness  108 	Xpos  346 	Score  0 	Rings  0
+Genome  282 	Fitness  607 	Xpos  3393 	Score  0 	Rings  10
+Genome  283 	Fitness  256 	Xpos  1129 	Score  0 	Rings  0
+Genome  284 	Fitness  530 	Xpos  3404 	Score  0 	Rings  10
+Genome  285 	Fitness  303 	Xpos  1343 	Score  0 	Rings  0
+Population's average fitness: 550.90000 stdev: 277.78605
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.577
+Mean genetic distance 1.178, standard deviation 0.321
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   41    10    876.0    0.577    29
+Total extinctions: 0
+Generation time: 227.514 sec (230.132 average)
+Saving checkpoint to neat-checkpoint-41
+
+ ****** Running generation 42 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  286 	Fitness  85 	Xpos  1696 	Score  0 	Rings  0
+Genome  287 	Fitness  118 	Xpos  1408 	Score  0 	Rings  0
+Genome  288 	Fitness  228 	Xpos  1673 	Score  0 	Rings  0
+Genome  289 	Fitness  365 	Xpos  2805 	Score  0 	Rings  2
+Genome  290 	Fitness  325 	Xpos  2805 	Score  0 	Rings  0
+Genome  291 	Fitness  260 	Xpos  1086 	Score  0 	Rings  2
+Genome  292 	Fitness  280 	Xpos  1095 	Score  0 	Rings  3
+Population's average fitness: 424.80000 stdev: 297.41782
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.430
+Mean genetic distance 1.183, standard deviation 0.307
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   42    10    876.0    0.430    30
+Total extinctions: 0
+Generation time: 230.156 sec (230.334 average)
+
+ ****** Running generation 43 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  293 	Fitness  335 	Xpos  1340 	Score  0 	Rings  3
+Genome  294 	Fitness  251 	Xpos  1669 	Score  0 	Rings  0
+Genome  295 	Fitness  71 	Xpos  1196 	Score  0 	Rings  0
+Genome  296 	Fitness  517 	Xpos  3403 	Score  0 	Rings  10
+Genome  297 	Fitness  81 	Xpos  344 	Score  0 	Rings  3
+Genome  298 	Fitness  79 	Xpos  351 	Score  0 	Rings  0
+Genome  299 	Fitness  87 	Xpos  264 	Score  0 	Rings  0
+Population's average fitness: 400.80000 stdev: 330.55432
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.410
+Mean genetic distance 1.060, standard deviation 0.299
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   43    10    876.0    0.410    31
+Total extinctions: 0
+Generation time: 205.421 sec (227.936 average)
+Saving checkpoint to neat-checkpoint-43
+
+ ****** Running generation 44 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  300 	Fitness  670 	Xpos  3381 	Score  0 	Rings  10
+Genome  301 	Fitness  268 	Xpos  1320 	Score  0 	Rings  1
+Genome  302 	Fitness  248 	Xpos  1046 	Score  0 	Rings  3
+Genome  303 	Fitness  448 	Xpos  2933 	Score  0 	Rings  2
+Genome  304 	Fitness  382 	Xpos  1611 	Score  0 	Rings  1
+Genome  305 	Fitness  304 	Xpos  1336 	Score  0 	Rings  3
+Genome  306 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Population's average fitness: 460.80000 stdev: 349.06269
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.647
+Mean genetic distance 0.978, standard deviation 0.368
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   44    10    876.0    0.647    32
+Total extinctions: 0
+Generation time: 244.321 sec (227.408 average)
+
+ ****** Running generation 45 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  307 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  308 	Fitness  744 	Xpos  3262 	Score  0 	Rings  7
+Genome  309 	Fitness  252 	Xpos  1143 	Score  0 	Rings  0
+Genome  310 	Fitness  692 	Xpos  3388 	Score  0 	Rings  8
+Genome  311 	Fitness  392 	Xpos  1570 	Score  0 	Rings  0
+Genome  312 	Fitness  684 	Xpos  3403 	Score  0 	Rings  11
+Genome  313 	Fitness  -293 	Xpos  99 	Score  0 	Rings  0
+Population's average fitness: 475.90000 stdev: 431.16202
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.659
+Mean genetic distance 1.091, standard deviation 0.357
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   45    10    876.0    0.659    33
+Total extinctions: 0
+Generation time: 219.636 sec (227.779 average)
+Saving checkpoint to neat-checkpoint-45
+
+ ****** Running generation 46 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  314 	Fitness  492 	Xpos  3403 	Score  0 	Rings  10
+Genome  315 	Fitness  245 	Xpos  1590 	Score  0 	Rings  0
+Genome  316 	Fitness  663 	Xpos  3403 	Score  0 	Rings  10
+Genome  317 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  318 	Fitness  106 	Xpos  262 	Score  0 	Rings  0
+Genome  319 	Fitness  600 	Xpos  3381 	Score  0 	Rings  10
+Genome  320 	Fitness  -205 	Xpos  143 	Score  0 	Rings  0
+Population's average fitness: 418.90000 stdev: 414.81187
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.611
+Mean genetic distance 1.141, standard deviation 0.358
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   46    10    876.0    0.611    34
+Total extinctions: 0
+Generation time: 207.429 sec (225.291 average)
+
+ ****** Running generation 47 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  321 	Fitness  785 	Xpos  3336 	Score  0 	Rings  6
+Genome  322 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  323 	Fitness  593 	Xpos  3380 	Score  0 	Rings  10
+Genome  324 	Fitness  90 	Xpos  393 	Score  0 	Rings  0
+Genome  325 	Fitness  766 	Xpos  3389 	Score  0 	Rings  6
+Genome  326 	Fitness  81 	Xpos  269 	Score  0 	Rings  0
+Genome  327 	Fitness  94 	Xpos  295 	Score  0 	Rings  0
+Population's average fitness: 469.70000 stdev: 411.39860
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.654
+Mean genetic distance 1.038, standard deviation 0.366
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   47    10    876.0    0.654    35
+Total extinctions: 0
+Generation time: 218.364 sec (223.405 average)
+Saving checkpoint to neat-checkpoint-47
+
+ ****** Running generation 48 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  328 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  329 	Fitness  254 	Xpos  1664 	Score  0 	Rings  0
+Genome  330 	Fitness  87 	Xpos  346 	Score  0 	Rings  0
+Genome  331 	Fitness  280 	Xpos  1070 	Score  0 	Rings  0
+Genome  332 	Fitness  675 	Xpos  3392 	Score  0 	Rings  7
+Genome  333 	Fitness  267 	Xpos  1097 	Score  0 	Rings  2
+Genome  334 	Fitness  702 	Xpos  3346 	Score  0 	Rings  5
+Population's average fitness: 455.30000 stdev: 376.53208
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.642
+Mean genetic distance 0.961, standard deviation 0.331
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   48    10    876.0    0.642    36
+Total extinctions: 0
+Generation time: 216.183 sec (223.253 average)
+
+ ****** Running generation 49 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  335 	Fitness  97 	Xpos  331 	Score  0 	Rings  0
+Genome  336 	Fitness  349 	Xpos  1580 	Score  0 	Rings  0
+Genome  337 	Fitness  279 	Xpos  1096 	Score  0 	Rings  0
+Genome  338 	Fitness  296 	Xpos  1135 	Score  0 	Rings  0
+Genome  339 	Fitness  304 	Xpos  1738 	Score  0 	Rings  0
+Genome  340 	Fitness  111 	Xpos  246 	Score  0 	Rings  0
+Genome  341 	Fitness  420 	Xpos  1625 	Score  0 	Rings  0
+Population's average fitness: 444.30000 stdev: 288.94984
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.446
+Mean genetic distance 1.044, standard deviation 0.299
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   49    10    876.0    0.446    37
+Total extinctions: 0
+Generation time: 212.746 sec (219.521 average)
+Saving checkpoint to neat-checkpoint-49
+
+ ****** Running generation 50 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  210 	Fitness  854 	Xpos  3262 	Score  0 	Rings  10
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  343 	Fitness  217 	Xpos  1052 	Score  0 	Rings  0
+Genome  344 	Fitness  98 	Xpos  339 	Score  0 	Rings  0
+Genome  345 	Fitness  648 	Xpos  3381 	Score  0 	Rings  10
+Genome  346 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  347 	Fitness  347 	Xpos  1551 	Score  0 	Rings  2
+Genome  348 	Fitness  311 	Xpos  1371 	Score  0 	Rings  4
+Population's average fitness: 476.70000 stdev: 384.44819
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.660
+Mean genetic distance 1.036, standard deviation 0.242
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   50    10    876.0    0.660    38
+Total extinctions: 0
+Generation time: 227.159 sec (220.893 average)
+
+ ****** Running generation 51 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  349 	Fitness  83 	Xpos  277 	Score  0 	Rings  1
+Genome  350 	Fitness  345 	Xpos  1628 	Score  0 	Rings  0
+Genome  351 	Fitness  224 	Xpos  1669 	Score  0 	Rings  0
+Genome  352 	Fitness  17 	Xpos  1170 	Score  0 	Rings  0
+Genome  353 	Fitness  85 	Xpos  356 	Score  0 	Rings  0
+Genome  354 	Fitness  234 	Xpos  1678 	Score  0 	Rings  0
+Genome  355 	Fitness  91 	Xpos  245 	Score  0 	Rings  0
+Population's average fitness: 367.00000 stdev: 337.30402
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.407
+Mean genetic distance 1.025, standard deviation 0.296
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   51    10    876.0    0.407    39
+Total extinctions: 0
+Generation time: 201.281 sec (218.269 average)
+Saving checkpoint to neat-checkpoint-51
+
+ ****** Running generation 52 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  356 	Fitness  298 	Xpos  1807 	Score  0 	Rings  0
+Genome  357 	Fitness  89 	Xpos  327 	Score  0 	Rings  0
+Genome  358 	Fitness  405 	Xpos  1640 	Score  0 	Rings  0
+Genome  359 	Fitness  330 	Xpos  1345 	Score  0 	Rings  13
+Genome  360 	Fitness  54 	Xpos  1196 	Score  0 	Rings  0
+Genome  361 	Fitness  283 	Xpos  1064 	Score  0 	Rings  2
+Genome  362 	Fitness  299 	Xpos  1383 	Score  0 	Rings  0
+Population's average fitness: 434.90000 stdev: 298.10483
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.463
+Mean genetic distance 0.881, standard deviation 0.329
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   52    10    876.0    0.463    40
+Total extinctions: 0
+Generation time: 211.461 sec (216.400 average)
+
+ ****** Running generation 53 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  363 	Fitness  92 	Xpos  262 	Score  0 	Rings  2
+Genome  364 	Fitness  31 	Xpos  1172 	Score  0 	Rings  0
+Genome  365 	Fitness  -72 	Xpos  933 	Score  0 	Rings  0
+Genome  366 	Fitness  246 	Xpos  1162 	Score  0 	Rings  0
+Genome  367 	Fitness  256 	Xpos  1097 	Score  0 	Rings  0
+Genome  368 	Fitness  93 	Xpos  262 	Score  0 	Rings  0
+Genome  369 	Fitness  215 	Xpos  1623 	Score  0 	Rings  0
+Population's average fitness: 345.20000 stdev: 352.40511
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.440
+Mean genetic distance 1.069, standard deviation 0.318
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   53    10    876.0    0.440    41
+Total extinctions: 0
+Generation time: 205.931 sec (216.451 average)
+Saving checkpoint to neat-checkpoint-53
+
+ ****** Running generation 54 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  370 	Fitness  366 	Xpos  1626 	Score  0 	Rings  0
+Genome  371 	Fitness  15 	Xpos  1173 	Score  0 	Rings  0
+Genome  372 	Fitness  89 	Xpos  323 	Score  0 	Rings  0
+Genome  373 	Fitness  212 	Xpos  1067 	Score  0 	Rings  1
+Genome  374 	Fitness  558 	Xpos  3403 	Score  0 	Rings  10
+Genome  375 	Fitness  279 	Xpos  1668 	Score  0 	Rings  0
+Genome  376 	Fitness  351 	Xpos  1625 	Score  0 	Rings  0
+Population's average fitness: 446.10000 stdev: 307.79683
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.501
+Mean genetic distance 1.042, standard deviation 0.383
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   54    10    876.0    0.501    42
+Total extinctions: 0
+Generation time: 220.828 sec (214.102 average)
+
+ ****** Running generation 55 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  252 	Fitness  857 	Xpos  3264 	Score  0 	Rings  5
+Genome  377 	Fitness  262 	Xpos  1060 	Score  0 	Rings  2
+Genome  378 	Fitness  710 	Xpos  3403 	Score  0 	Rings  10
+Genome  379 	Fitness  775 	Xpos  3374 	Score  0 	Rings  6
+Genome  380 	Fitness  488 	Xpos  3406 	Score  0 	Rings  10
+Genome  381 	Fitness  71 	Xpos  1186 	Score  0 	Rings  0
+Genome  382 	Fitness  768 	Xpos  3418 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Population's average fitness: 652.30000 stdev: 269.36557
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.722
+Mean genetic distance 0.937, standard deviation 0.339
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   55    10    876.0    0.722    43
+Total extinctions: 0
+Generation time: 262.716 sec (218.410 average)
+Saving checkpoint to neat-checkpoint-55
+
+ ****** Running generation 56 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  384 	Fitness  296 	Xpos  1109 	Score  0 	Rings  2
+Genome  385 	Fitness  747 	Xpos  3429 	Score  0 	Rings  8
+Genome  386 	Fitness  -259 	Xpos  116 	Score  0 	Rings  0
+Genome  387 	Fitness  605 	Xpos  3383 	Score  0 	Rings  10
+Genome  388 	Fitness  90 	Xpos  332 	Score  0 	Rings  0
+Genome  389 	Fitness  296 	Xpos  1104 	Score  0 	Rings  0
+Genome  390 	Fitness  208 	Xpos  1659 	Score  0 	Rings  0
+Population's average fitness: 457.50000 stdev: 369.37143
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.631
+Mean genetic distance 1.233, standard deviation 0.388
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   56    10    876.0    0.631    44
+Total extinctions: 0
+Generation time: 214.446 sec (219.111 average)
+
+ ****** Running generation 57 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  391 	Fitness  610 	Xpos  3403 	Score  0 	Rings  10
+Genome  392 	Fitness  399 	Xpos  1551 	Score  0 	Rings  2
+Genome  393 	Fitness  87 	Xpos  340 	Score  0 	Rings  0
+Genome  394 	Fitness  97 	Xpos  377 	Score  0 	Rings  0
+Genome  395 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  396 	Fitness  413 	Xpos  1611 	Score  0 	Rings  0
+Genome  397 	Fitness  814 	Xpos  3281 	Score  0 	Rings  5
+Population's average fitness: 471.30000 stdev: 385.91607
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.656
+Mean genetic distance 1.110, standard deviation 0.392
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   57    10    876.0    0.656    45
+Total extinctions: 0
+Generation time: 205.964 sec (217.871 average)
+Saving checkpoint to neat-checkpoint-57
+
+ ****** Running generation 58 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  398 	Fitness  217 	Xpos  1043 	Score  0 	Rings  0
+Genome  399 	Fitness  95 	Xpos  1664 	Score  0 	Rings  0
+Genome  400 	Fitness  98 	Xpos  320 	Score  0 	Rings  0
+Genome  401 	Fitness  -117 	Xpos  214 	Score  0 	Rings  0
+Genome  402 	Fitness  494 	Xpos  3404 	Score  0 	Rings  10
+Genome  403 	Fitness  565 	Xpos  3385 	Score  0 	Rings  10
+Genome  404 	Fitness  269 	Xpos  1088 	Score  0 	Rings  0
+Population's average fitness: 421.30000 stdev: 343.48160
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.542
+Mean genetic distance 1.060, standard deviation 0.341
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   58    10    876.0    0.542    46
+Total extinctions: 0
+Generation time: 198.750 sec (216.128 average)
+
+ ****** Running generation 59 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  405 	Fitness  485 	Xpos  3403 	Score  0 	Rings  10
+Genome  406 	Fitness  89 	Xpos  230 	Score  0 	Rings  0
+Genome  407 	Fitness  161 	Xpos  1655 	Score  0 	Rings  0
+Genome  408 	Fitness  77 	Xpos  176 	Score  0 	Rings  1
+Genome  409 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  410 	Fitness  91 	Xpos  231 	Score  0 	Rings  0
+Genome  411 	Fitness  344 	Xpos  1658 	Score  0 	Rings  0
+Population's average fitness: 354.00000 stdev: 384.39017
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.556
+Mean genetic distance 1.104, standard deviation 0.445
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   59    10    876.0    0.556    47
+Total extinctions: 0
+Generation time: 180.193 sec (212.873 average)
+Saving checkpoint to neat-checkpoint-59
+
+ ****** Running generation 60 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  412 	Fitness  330 	Xpos  1575 	Score  0 	Rings  0
+Genome  413 	Fitness  839 	Xpos  3318 	Score  0 	Rings  5
+Genome  414 	Fitness  88 	Xpos  339 	Score  0 	Rings  0
+Genome  415 	Fitness  -279 	Xpos  106 	Score  0 	Rings  0
+Genome  416 	Fitness  496 	Xpos  3402 	Score  0 	Rings  10
+Genome  417 	Fitness  327 	Xpos  1041 	Score  0 	Rings  0
+Genome  418 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Population's average fitness: 409.40000 stdev: 436.39115
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.603
+Mean genetic distance 1.068, standard deviation 0.372
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   60    10    876.0    0.603    48
+Total extinctions: 0
+Generation time: 201.180 sec (210.275 average)
+
+ ****** Running generation 61 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  419 	Fitness  181 	Xpos  1087 	Score  0 	Rings  0
+Genome  420 	Fitness  281 	Xpos  1122 	Score  0 	Rings  0
+Genome  421 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  422 	Fitness  386 	Xpos  3509 	Score  0 	Rings  6
+Genome  423 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  424 	Fitness  288 	Xpos  1633 	Score  0 	Rings  0
+Genome  425 	Fitness  646 	Xpos  3390 	Score  0 	Rings  10
+Population's average fitness: 377.60000 stdev: 418.76800
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.576
+Mean genetic distance 1.061, standard deviation 0.345
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   61    10    876.0    0.576    49
+Total extinctions: 0
+Generation time: 205.770 sec (210.724 average)
+Saving checkpoint to neat-checkpoint-61
+
+ ****** Running generation 62 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  426 	Fitness  720 	Xpos  3276 	Score  0 	Rings  7
+Genome  427 	Fitness  94 	Xpos  278 	Score  0 	Rings  0
+Genome  428 	Fitness  83 	Xpos  332 	Score  0 	Rings  0
+Genome  429 	Fitness  348 	Xpos  2805 	Score  0 	Rings  0
+Genome  430 	Fitness  762 	Xpos  3342 	Score  0 	Rings  6
+Genome  431 	Fitness  527 	Xpos  3403 	Score  0 	Rings  10
+Genome  432 	Fitness  90 	Xpos  356 	Score  0 	Rings  0
+Population's average fitness: 521.60000 stdev: 322.60508
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.553
+Mean genetic distance 0.955, standard deviation 0.346
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   62    10    876.0    0.553    50
+Total extinctions: 0
+Generation time: 245.177 sec (214.095 average)
+
+ ****** Running generation 63 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  433 	Fitness  553 	Xpos  3405 	Score  0 	Rings  10
+Genome  434 	Fitness  47 	Xpos  1215 	Score  0 	Rings  0
+Genome  435 	Fitness  359 	Xpos  1598 	Score  0 	Rings  2
+Genome  436 	Fitness  790 	Xpos  3369 	Score  0 	Rings  3
+Genome  437 	Fitness  297 	Xpos  1115 	Score  0 	Rings  0
+Genome  438 	Fitness  285 	Xpos  1105 	Score  0 	Rings  0
+Genome  439 	Fitness  295 	Xpos  1091 	Score  0 	Rings  0
+Population's average fitness: 521.80000 stdev: 288.86149
+Best fitness: 876.00000 - size: (14, 3920) - species 1 - id 76
+Average adjusted fitness: 0.573
+Mean genetic distance 1.005, standard deviation 0.348
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   63    10    876.0    0.573    51
+Total extinctions: 0
+Generation time: 245.147 sec (218.017 average)
+Saving checkpoint to neat-checkpoint-63
+
+ ****** Running generation 64 ****** 
+
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  383 	Fitness  858 	Xpos  3386 	Score  0 	Rings  5
+Genome  440 	Fitness  338 	Xpos  3509 	Score  0 	Rings  10
+Genome  441 	Fitness  606 	Xpos  3404 	Score  0 	Rings  10
+Genome  442 	Fitness  85 	Xpos  358 	Score  0 	Rings  1
+Genome  443 	Fitness  417 	Xpos  1644 	Score  0 	Rings  0
+Genome  444 	Fitness  290 	Xpos  3509 	Score  0 	Rings  9
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  446 	Fitness  734 	Xpos  3451 	Score  0 	Rings  11
+Population's average fitness: 594.70000 stdev: 277.79455
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.637
+Mean genetic distance 0.876, standard deviation 0.260
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   64    10    885.0    0.637     0
+Total extinctions: 0
+Generation time: 271.796 sec (223.114 average)
+
+ ****** Running generation 65 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  447 	Fitness  738 	Xpos  3375 	Score  0 	Rings  8
+Genome  448 	Fitness  91 	Xpos  280 	Score  0 	Rings  0
+Genome  449 	Fitness  116 	Xpos  1200 	Score  0 	Rings  0
+Genome  450 	Fitness  488 	Xpos  3403 	Score  0 	Rings  10
+Genome  451 	Fitness  668 	Xpos  3393 	Score  0 	Rings  6
+Genome  452 	Fitness  412 	Xpos  1671 	Score  0 	Rings  0
+Genome  453 	Fitness  128 	Xpos  356 	Score  0 	Rings  0
+Population's average fitness: 526.00000 stdev: 309.33509
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.548
+Mean genetic distance 1.058, standard deviation 0.362
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   65    10    885.0    0.548     1
+Total extinctions: 0
+Generation time: 243.488 sec (221.191 average)
+Saving checkpoint to neat-checkpoint-65
+
+ ****** Running generation 66 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  454 	Fitness  -287 	Xpos  102 	Score  0 	Rings  0
+Genome  455 	Fitness  89 	Xpos  357 	Score  0 	Rings  0
+Genome  456 	Fitness  90 	Xpos  349 	Score  0 	Rings  0
+Genome  457 	Fitness  415 	Xpos  2805 	Score  0 	Rings  5
+Genome  458 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  459 	Fitness  284 	Xpos  1350 	Score  0 	Rings  1
+Genome  460 	Fitness  821 	Xpos  3696 	Score  40 	Rings  13
+Population's average fitness: 373.20000 stdev: 448.18474
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.568
+Mean genetic distance 1.022, standard deviation 0.305
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   66    10    885.0    0.568     2
+Total extinctions: 0
+Generation time: 227.112 sec (222.458 average)
+
+ ****** Running generation 67 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  461 	Fitness  262 	Xpos  1091 	Score  0 	Rings  2
+Genome  462 	Fitness  685 	Xpos  3385 	Score  0 	Rings  9
+Genome  463 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  464 	Fitness  88 	Xpos  286 	Score  0 	Rings  0
+Genome  465 	Fitness  593 	Xpos  3398 	Score  0 	Rings  10
+Genome  466 	Fitness  -54 	Xpos  933 	Score  0 	Rings  3
+Genome  467 	Fitness  400 	Xpos  1836 	Score  0 	Rings  5
+Population's average fitness: 429.40000 stdev: 399.06145
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.615
+Mean genetic distance 1.002, standard deviation 0.337
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   67    10    885.0    0.615     3
+Total extinctions: 0
+Generation time: 229.869 sec (224.848 average)
+Saving checkpoint to neat-checkpoint-67
+
+ ****** Running generation 68 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  468 	Fitness  256 	Xpos  1067 	Score  0 	Rings  0
+Genome  469 	Fitness  272 	Xpos  1280 	Score  0 	Rings  4
+Genome  470 	Fitness  567 	Xpos  3385 	Score  0 	Rings  10
+Genome  471 	Fitness  746 	Xpos  3393 	Score  0 	Rings  10
+Genome  472 	Fitness  512 	Xpos  3403 	Score  0 	Rings  10
+Genome  473 	Fitness  377 	Xpos  1676 	Score  0 	Rings  4
+Genome  474 	Fitness  424 	Xpos  1619 	Score  0 	Rings  3
+Population's average fitness: 577.30000 stdev: 235.70874
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.511
+Mean genetic distance 1.073, standard deviation 0.349
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   68    10    885.0    0.511     4
+Total extinctions: 0
+Generation time: 253.174 sec (230.291 average)
+
+ ****** Running generation 69 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  475 	Fitness  422 	Xpos  2805 	Score  0 	Rings  3
+Genome  476 	Fitness  395 	Xpos  1622 	Score  0 	Rings  0
+Genome  477 	Fitness  740 	Xpos  3413 	Score  0 	Rings  8
+Genome  478 	Fitness  140 	Xpos  330 	Score  0 	Rings  3
+Genome  479 	Fitness  185 	Xpos  1096 	Score  0 	Rings  1
+Genome  480 	Fitness  597 	Xpos  3376 	Score  0 	Rings  10
+Genome  481 	Fitness  497 	Xpos  3403 	Score  0 	Rings  10
+Population's average fitness: 559.50000 stdev: 263.68817
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.563
+Mean genetic distance 0.989, standard deviation 0.339
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   69    10    885.0    0.563     5
+Total extinctions: 0
+Generation time: 262.552 sec (238.527 average)
+Saving checkpoint to neat-checkpoint-69
+
+ ****** Running generation 70 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  482 	Fitness  260 	Xpos  1049 	Score  0 	Rings  1
+Genome  483 	Fitness  313 	Xpos  1293 	Score  0 	Rings  1
+Genome  484 	Fitness  367 	Xpos  1633 	Score  0 	Rings  0
+Genome  485 	Fitness  223 	Xpos  1081 	Score  0 	Rings  2
+Genome  486 	Fitness  569 	Xpos  3403 	Score  0 	Rings  10
+Genome  487 	Fitness  411 	Xpos  1602 	Score  0 	Rings  0
+Genome  488 	Fitness  277 	Xpos  1248 	Score  0 	Rings  5
+Population's average fitness: 503.90000 stdev: 258.26554
+Best fitness: 885.00000 - size: (14, 3443) - species 1 - id 445
+Average adjusted fitness: 0.424
+Mean genetic distance 1.087, standard deviation 0.314
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   70    10    885.0    0.424     6
+Total extinctions: 0
+Generation time: 244.378 sec (242.846 average)
+
+ ****** Running generation 71 ****** 
+
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  342 	Fitness  858 	Xpos  3393 	Score  0 	Rings  10
+Genome  489 	Fitness  265 	Xpos  1077 	Score  0 	Rings  6
+Genome  490 	Fitness  471 	Xpos  1823 	Score  0 	Rings  14
+Genome  491 	Fitness  761 	Xpos  3375 	Score  0 	Rings  1
+Genome  492 	Fitness  757 	Xpos  3376 	Score  0 	Rings  10
+Genome  493 	Fitness  429 	Xpos  1776 	Score  0 	Rings  0
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  495 	Fitness  249 	Xpos  1103 	Score  0 	Rings  0
+Population's average fitness: 648.90000 stdev: 254.19970
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.580
+Mean genetic distance 1.121, standard deviation 0.353
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   71    10    938.0    0.580     0
+Total extinctions: 0
+Generation time: 285.334 sec (250.803 average)
+Saving checkpoint to neat-checkpoint-71
+
+ ****** Running generation 72 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  496 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  497 	Fitness  379 	Xpos  1609 	Score  0 	Rings  3
+Genome  498 	Fitness  287 	Xpos  1276 	Score  0 	Rings  2
+Genome  499 	Fitness  872 	Xpos  3690 	Score  30 	Rings  9
+Genome  500 	Fitness  330 	Xpos  1562 	Score  0 	Rings  2
+Genome  501 	Fitness  471 	Xpos  1869 	Score  0 	Rings  16
+Genome  502 	Fitness  548 	Xpos  2294 	Score  0 	Rings  3
+Population's average fitness: 528.70000 stdev: 366.33975
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.669
+Mean genetic distance 1.112, standard deviation 0.362
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   72    10    938.0    0.669     1
+Total extinctions: 0
+Generation time: 283.638 sec (254.649 average)
+
+ ****** Running generation 73 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  503 	Fitness  97 	Xpos  241 	Score  0 	Rings  0
+Genome  504 	Fitness  273 	Xpos  1116 	Score  0 	Rings  3
+Genome  505 	Fitness  68 	Xpos  356 	Score  0 	Rings  0
+Genome  506 	Fitness  114 	Xpos  1202 	Score  0 	Rings  0
+Genome  507 	Fitness  383 	Xpos  1611 	Score  0 	Rings  5
+Genome  508 	Fitness  255 	Xpos  1092 	Score  0 	Rings  2
+Genome  509 	Fitness  91 	Xpos  334 	Score  0 	Rings  0
+Population's average fitness: 398.00000 stdev: 341.75401
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.379
+Mean genetic distance 1.065, standard deviation 0.333
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   73    10    938.0    0.379     2
+Total extinctions: 0
+Generation time: 220.817 sec (252.216 average)
+Saving checkpoint to neat-checkpoint-73
+
+ ****** Running generation 74 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  510 	Fitness  626 	Xpos  3376 	Score  0 	Rings  7
+Genome  511 	Fitness  376 	Xpos  1573 	Score  0 	Rings  2
+Genome  512 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  513 	Fitness  184 	Xpos  1126 	Score  0 	Rings  2
+Genome  514 	Fitness  56 	Xpos  1193 	Score  0 	Rings  2
+Genome  515 	Fitness  313 	Xpos  1338 	Score  0 	Rings  4
+Genome  516 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Population's average fitness: 365.60000 stdev: 440.54811
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.537
+Mean genetic distance 1.094, standard deviation 0.289
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   74    10    938.0    0.537     3
+Total extinctions: 0
+Generation time: 219.870 sec (247.023 average)
+
+ ****** Running generation 75 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  517 	Fitness  301 	Xpos  1346 	Score  0 	Rings  2
+Genome  518 	Fitness  278 	Xpos  1109 	Score  0 	Rings  3
+Genome  519 	Fitness  477 	Xpos  1882 	Score  0 	Rings  3
+Genome  520 	Fitness  361 	Xpos  1873 	Score  0 	Rings  3
+Genome  521 	Fitness  -9 	Xpos  67 	Score  0 	Rings  0
+Genome  522 	Fitness  791 	Xpos  3373 	Score  0 	Rings  9
+Genome  523 	Fitness  521 	Xpos  2274 	Score  0 	Rings  2
+Population's average fitness: 541.90000 stdev: 302.79150
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.582
+Mean genetic distance 1.162, standard deviation 0.328
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   75    10    938.0    0.582     4
+Total extinctions: 0
+Generation time: 280.963 sec (250.771 average)
+Saving checkpoint to neat-checkpoint-75
+
+ ****** Running generation 76 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  524 	Fitness  258 	Xpos  996 	Score  0 	Rings  1
+Genome  525 	Fitness  1 	Xpos  55 	Score  0 	Rings  0
+Genome  526 	Fitness  352 	Xpos  1373 	Score  0 	Rings  14
+Genome  527 	Fitness  -273 	Xpos  109 	Score  0 	Rings  0
+Genome  528 	Fitness  436 	Xpos  1634 	Score  0 	Rings  3
+Genome  529 	Fitness  91 	Xpos  264 	Score  0 	Rings  0
+Genome  530 	Fitness  311 	Xpos  1553 	Score  0 	Rings  4
+Population's average fitness: 387.50000 stdev: 385.87284
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.545
+Mean genetic distance 1.156, standard deviation 0.367
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   76    10    938.0    0.545     5
+Total extinctions: 0
+Generation time: 222.077 sec (250.267 average)
+
+ ****** Running generation 77 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  531 	Fitness  419 	Xpos  1814 	Score  0 	Rings  3
+Genome  532 	Fitness  604 	Xpos  3345 	Score  0 	Rings  7
+Genome  533 	Fitness  107 	Xpos  346 	Score  0 	Rings  2
+Genome  534 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  535 	Fitness  199 	Xpos  1088 	Score  0 	Rings  2
+Genome  536 	Fitness  291 	Xpos  1382 	Score  0 	Rings  3
+Genome  537 	Fitness  243 	Xpos  1114 	Score  0 	Rings  1
+Population's average fitness: 426.30000 stdev: 379.16831
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.586
+Mean genetic distance 1.048, standard deviation 0.342
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   77    10    938.0    0.586     6
+Total extinctions: 0
+Generation time: 247.026 sec (251.983 average)
+Saving checkpoint to neat-checkpoint-77
+
+ ****** Running generation 78 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  538 	Fitness  -117 	Xpos  933 	Score  0 	Rings  2
+Genome  539 	Fitness  331 	Xpos  2933 	Score  0 	Rings  5
+Genome  540 	Fitness  820 	Xpos  3381 	Score  0 	Rings  6
+Genome  541 	Fitness  237 	Xpos  1090 	Score  0 	Rings  3
+Genome  542 	Fitness  94 	Xpos  1665 	Score  0 	Rings  0
+Genome  543 	Fitness  791 	Xpos  3262 	Score  0 	Rings  8
+Genome  544 	Fitness  89 	Xpos  355 	Score  0 	Rings  0
+Population's average fitness: 494.40000 stdev: 384.75816
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.580
+Mean genetic distance 1.149, standard deviation 0.386
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   78    10    938.0    0.580     7
+Total extinctions: 0
+Generation time: 278.110 sec (254.477 average)
+
+ ****** Running generation 79 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  545 	Fitness  298 	Xpos  1391 	Score  0 	Rings  0
+Genome  546 	Fitness  89 	Xpos  312 	Score  0 	Rings  0
+Genome  547 	Fitness  374 	Xpos  1649 	Score  0 	Rings  2
+Genome  548 	Fitness  89 	Xpos  312 	Score  0 	Rings  0
+Genome  549 	Fitness  93 	Xpos  362 	Score  0 	Rings  0
+Genome  550 	Fitness  563 	Xpos  3403 	Score  0 	Rings  10
+Genome  551 	Fitness  344 	Xpos  1614 	Score  0 	Rings  1
+Population's average fitness: 454.90000 stdev: 323.97236
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.431
+Mean genetic distance 1.179, standard deviation 0.302
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   79    10    938.0    0.431     8
+Total extinctions: 0
+Generation time: 234.164 sec (251.638 average)
+Saving checkpoint to neat-checkpoint-79
+
+ ****** Running generation 80 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  552 	Fitness  247 	Xpos  1089 	Score  0 	Rings  0
+Genome  553 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  554 	Fitness  428 	Xpos  1899 	Score  0 	Rings  1
+Genome  555 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  556 	Fitness  875 	Xpos  3599 	Score  10 	Rings  22
+Genome  557 	Fitness  288 	Xpos  1329 	Score  0 	Rings  1
+Genome  558 	Fitness  490 	Xpos  3403 	Score  0 	Rings  10
+Population's average fitness: 442.90000 stdev: 445.02864
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.600
+Mean genetic distance 1.118, standard deviation 0.296
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   80    10    938.0    0.600     9
+Total extinctions: 0
+Generation time: 260.531 sec (253.253 average)
+
+ ****** Running generation 81 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  559 	Fitness  250 	Xpos  1062 	Score  0 	Rings  3
+Genome  560 	Fitness  86 	Xpos  265 	Score  0 	Rings  0
+Genome  561 	Fitness  168 	Xpos  1019 	Score  0 	Rings  2
+Genome  562 	Fitness  587 	Xpos  3383 	Score  0 	Rings  10
+Genome  563 	Fitness  -281 	Xpos  105 	Score  0 	Rings  0
+Genome  564 	Fitness  827 	Xpos  3778 	Score  10 	Rings  11
+Genome  565 	Fitness  234 	Xpos  1162 	Score  0 	Rings  1
+Population's average fitness: 457.00000 stdev: 400.28615
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.605
+Mean genetic distance 1.075, standard deviation 0.331
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   81    10    938.0    0.605    10
+Total extinctions: 0
+Generation time: 247.901 sec (249.510 average)
+Saving checkpoint to neat-checkpoint-81
+
+ ****** Running generation 82 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  566 	Fitness  289 	Xpos  1317 	Score  0 	Rings  2
+Genome  567 	Fitness  20 	Xpos  1196 	Score  0 	Rings  0
+Genome  568 	Fitness  543 	Xpos  2291 	Score  0 	Rings  15
+Genome  569 	Fitness  302 	Xpos  1173 	Score  0 	Rings  0
+Genome  570 	Fitness  224 	Xpos  1639 	Score  0 	Rings  0
+Genome  571 	Fitness  83 	Xpos  307 	Score  0 	Rings  2
+Genome  572 	Fitness  350 	Xpos  2805 	Score  0 	Rings  5
+Population's average fitness: 451.00000 stdev: 323.41521
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.469
+Mean genetic distance 1.140, standard deviation 0.370
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   82    10    938.0    0.469    11
+Total extinctions: 0
+Generation time: 250.584 sec (246.204 average)
+
+ ****** Running generation 83 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  573 	Fitness  351 	Xpos  1631 	Score  0 	Rings  3
+Genome  574 	Fitness  291 	Xpos  1310 	Score  0 	Rings  1
+Genome  575 	Fitness  256 	Xpos  1007 	Score  0 	Rings  5
+Genome  576 	Fitness  82 	Xpos  311 	Score  0 	Rings  1
+Genome  577 	Fitness  276 	Xpos  1042 	Score  0 	Rings  1
+Genome  578 	Fitness  285 	Xpos  1125 	Score  0 	Rings  0
+Genome  579 	Fitness  -265 	Xpos  113 	Score  0 	Rings  0
+Population's average fitness: 397.50000 stdev: 368.53093
+Best fitness: 938.00000 - size: (15, 3532) - species 1 - id 494
+Average adjusted fitness: 0.551
+Mean genetic distance 1.138, standard deviation 0.349
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   83    10    938.0    0.551    12
+Total extinctions: 0
+Generation time: 226.587 sec (246.781 average)
+Saving checkpoint to neat-checkpoint-83
+
+ ****** Running generation 84 ****** 
+
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  76 	Fitness  876 	Xpos  3442 	Score  0 	Rings  9
+Genome  580 	Fitness  348 	Xpos  1605 	Score  0 	Rings  1
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  582 	Fitness  -259 	Xpos  116 	Score  0 	Rings  0
+Genome  583 	Fitness  283 	Xpos  1091 	Score  0 	Rings  0
+Genome  584 	Fitness  282 	Xpos  1343 	Score  0 	Rings  2
+Genome  585 	Fitness  298 	Xpos  1300 	Score  0 	Rings  2
+Genome  586 	Fitness  440 	Xpos  1775 	Score  0 	Rings  0
+Population's average fitness: 504.40000 stdev: 377.44700
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.630
+Mean genetic distance 1.280, standard deviation 0.250
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   84    10    953.0    0.630     0
+Total extinctions: 0
+Generation time: 269.716 sec (251.766 average)
+
+ ****** Running generation 85 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  587 	Fitness  239 	Xpos  1106 	Score  0 	Rings  2
+Genome  588 	Fitness  444 	Xpos  2190 	Score  0 	Rings  1
+Genome  589 	Fitness  262 	Xpos  1104 	Score  0 	Rings  2
+Genome  590 	Fitness  308 	Xpos  1356 	Score  0 	Rings  5
+Genome  591 	Fitness  324 	Xpos  1383 	Score  0 	Rings  0
+Genome  592 	Fitness  278 	Xpos  1145 	Score  0 	Rings  1
+Genome  593 	Fitness  253 	Xpos  1383 	Score  0 	Rings  4
+Population's average fitness: 488.40000 stdev: 291.54183
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.349
+Mean genetic distance 1.212, standard deviation 0.341
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   85    10    953.0    0.349     1
+Total extinctions: 0
+Generation time: 255.124 sec (249.182 average)
+Saving checkpoint to neat-checkpoint-85
+
+ ****** Running generation 86 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  594 	Fitness  244 	Xpos  1090 	Score  0 	Rings  1
+Genome  595 	Fitness  798 	Xpos  3296 	Score  0 	Rings  7
+Genome  596 	Fitness  98 	Xpos  337 	Score  0 	Rings  0
+Genome  597 	Fitness  68 	Xpos  340 	Score  0 	Rings  0
+Genome  598 	Fitness  332 	Xpos  1869 	Score  0 	Rings  2
+Genome  599 	Fitness  -137 	Xpos  176 	Score  0 	Rings  1
+Genome  600 	Fitness  274 	Xpos  1101 	Score  0 	Rings  4
+Population's average fitness: 445.30000 stdev: 387.68468
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.534
+Mean genetic distance 1.148, standard deviation 0.311
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   86    10    953.0    0.534     2
+Total extinctions: 0
+Generation time: 234.394 sec (250.414 average)
+
+ ****** Running generation 87 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  601 	Fitness  377 	Xpos  1588 	Score  0 	Rings  2
+Genome  602 	Fitness  777 	Xpos  3570 	Score  10 	Rings  18
+Genome  603 	Fitness  251 	Xpos  1071 	Score  0 	Rings  3
+Genome  604 	Fitness  96 	Xpos  324 	Score  0 	Rings  1
+Genome  605 	Fitness  349 	Xpos  1331 	Score  0 	Rings  15
+Genome  606 	Fitness  248 	Xpos  1034 	Score  0 	Rings  0
+Genome  607 	Fitness  734 	Xpos  3350 	Score  0 	Rings  6
+Population's average fitness: 560.80000 stdev: 310.87740
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.542
+Mean genetic distance 1.130, standard deviation 0.371
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   87    10    953.0    0.542     3
+Total extinctions: 0
+Generation time: 283.999 sec (254.111 average)
+Saving checkpoint to neat-checkpoint-87
+
+ ****** Running generation 88 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  608 	Fitness  -243 	Xpos  124 	Score  0 	Rings  0
+Genome  609 	Fitness  93 	Xpos  278 	Score  0 	Rings  3
+Genome  610 	Fitness  571 	Xpos  2211 	Score  0 	Rings  4
+Genome  611 	Fitness  253 	Xpos  1074 	Score  0 	Rings  2
+Genome  612 	Fitness  18 	Xpos  1172 	Score  0 	Rings  0
+Genome  613 	Fitness  85 	Xpos  218 	Score  0 	Rings  0
+Genome  614 	Fitness  364 	Xpos  1595 	Score  0 	Rings  1
+Population's average fitness: 391.70000 stdev: 404.32439
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.531
+Mean genetic distance 1.136, standard deviation 0.382
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   88    10    953.0    0.531     4
+Total extinctions: 0
+Generation time: 228.782 sec (249.178 average)
+
+ ****** Running generation 89 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  615 	Fitness  286 	Xpos  1076 	Score  0 	Rings  3
+Genome  616 	Fitness  -13 	Xpos  91 	Score  0 	Rings  0
+Genome  617 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  618 	Fitness  592 	Xpos  2145 	Score  0 	Rings  3
+Genome  619 	Fitness  855 	Xpos  3566 	Score  10 	Rings  13
+Genome  620 	Fitness  252 	Xpos  1661 	Score  0 	Rings  0
+Genome  621 	Fitness  794 	Xpos  3197 	Score  0 	Rings  6
+Population's average fitness: 524.30000 stdev: 420.61480
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.658
+Mean genetic distance 1.157, standard deviation 0.314
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   89    10    953.0    0.658     5
+Total extinctions: 0
+Generation time: 275.287 sec (253.290 average)
+Saving checkpoint to neat-checkpoint-89
+
+ ****** Running generation 90 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  622 	Fitness  87 	Xpos  352 	Score  0 	Rings  0
+Genome  623 	Fitness  255 	Xpos  1157 	Score  0 	Rings  3
+Genome  624 	Fitness  436 	Xpos  1833 	Score  0 	Rings  14
+Genome  625 	Fitness  -133 	Xpos  311 	Score  0 	Rings  0
+Genome  626 	Fitness  264 	Xpos  1097 	Score  0 	Rings  4
+Genome  627 	Fitness  -4 	Xpos  16 	Score  0 	Rings  0
+Genome  628 	Fitness  241 	Xpos  1029 	Score  0 	Rings  2
+Population's average fitness: 392.20000 stdev: 379.63688
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.484
+Mean genetic distance 1.194, standard deviation 0.346
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   90    10    953.0    0.484     6
+Total extinctions: 0
+Generation time: 228.603 sec (250.098 average)
+
+ ****** Running generation 91 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  629 	Fitness  -273 	Xpos  109 	Score  0 	Rings  0
+Genome  630 	Fitness  421 	Xpos  1841 	Score  0 	Rings  1
+Genome  631 	Fitness  291 	Xpos  1149 	Score  0 	Rings  3
+Genome  632 	Fitness  80 	Xpos  347 	Score  0 	Rings  2
+Genome  633 	Fitness  238 	Xpos  1057 	Score  0 	Rings  3
+Genome  634 	Fitness  -239 	Xpos  126 	Score  0 	Rings  0
+Genome  635 	Fitness  239 	Xpos  1123 	Score  0 	Rings  2
+Population's average fitness: 353.30000 stdev: 428.57976
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.511
+Mean genetic distance 1.080, standard deviation 0.280
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   91    10    953.0    0.511     7
+Total extinctions: 0
+Generation time: 233.728 sec (248.680 average)
+Saving checkpoint to neat-checkpoint-91
+
+ ****** Running generation 92 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  636 	Fitness  384 	Xpos  1568 	Score  0 	Rings  2
+Genome  637 	Fitness  797 	Xpos  3388 	Score  0 	Rings  11
+Genome  638 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  639 	Fitness  -267 	Xpos  112 	Score  0 	Rings  0
+Genome  640 	Fitness  324 	Xpos  1324 	Score  0 	Rings  1
+Genome  641 	Fitness  386 	Xpos  1636 	Score  0 	Rings  1
+Genome  642 	Fitness  522 	Xpos  2280 	Score  0 	Rings  6
+Population's average fitness: 462.30000 stdev: 436.33429
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.608
+Mean genetic distance 1.168, standard deviation 0.326
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   92    10    953.0    0.608     8
+Total extinctions: 0
+Generation time: 261.376 sec (249.759 average)
+
+ ****** Running generation 93 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  445 	Fitness  885 	Xpos  3789 	Score  10 	Rings  25
+Genome  643 	Fitness  200 	Xpos  1152 	Score  0 	Rings  2
+Genome  644 	Fitness  234 	Xpos  1061 	Score  0 	Rings  2
+Genome  645 	Fitness  283 	Xpos  1345 	Score  0 	Rings  2
+Genome  646 	Fitness  340 	Xpos  1361 	Score  0 	Rings  11
+Genome  647 	Fitness  -299 	Xpos  96 	Score  0 	Rings  0
+Genome  648 	Fitness  -46 	Xpos  78 	Score  0 	Rings  0
+Genome  649 	Fitness  893 	Xpos  3605 	Score  10 	Rings  23
+Population's average fitness: 438.10000 stdev: 427.94543
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.589
+Mean genetic distance 1.162, standard deviation 0.309
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   93    10    953.0    0.589     9
+Total extinctions: 0
+Generation time: 247.171 sec (251.818 average)
+Saving checkpoint to neat-checkpoint-93
+
+ ****** Running generation 94 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  649 	Fitness  893 	Xpos  3605 	Score  10 	Rings  23
+Genome  650 	Fitness  677 	Xpos  3391 	Score  0 	Rings  7
+Genome  651 	Fitness  398 	Xpos  1580 	Score  0 	Rings  0
+Genome  652 	Fitness  310 	Xpos  1341 	Score  0 	Rings  5
+Genome  653 	Fitness  82 	Xpos  280 	Score  0 	Rings  1
+Genome  654 	Fitness  299 	Xpos  1365 	Score  0 	Rings  16
+Genome  655 	Fitness  93 	Xpos  216 	Score  0 	Rings  0
+Genome  656 	Fitness  84 	Xpos  357 	Score  0 	Rings  2
+Population's average fitness: 472.70000 stdev: 342.88658
+Best fitness: 953.00000 - size: (16, 3481) - species 1 - id 581
+Average adjusted fitness: 0.449
+Mean genetic distance 0.864, standard deviation 0.253
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   94    10    953.0    0.449    10
+Total extinctions: 0
+Generation time: 242.648 sec (249.111 average)
+
+ ****** Running generation 95 ****** 
+
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
+Genome  494 	Fitness  938 	Xpos  3691 	Score  10 	Rings  10
+Genome  649 	Fitness  893 	Xpos  3605 	Score  10 	Rings  23
+Genome  657 	Fitness  -287 	Xpos  102 	Score  0 	Rings  0
+Genome  658 	Fitness  233 	Xpos  1354 	Score  0 	Rings  1
+Genome  659 	Fitness  422 	Xpos  1553 	Score  0 	Rings  0
+Genome  660 	Fitness  960 	Xpos  3559 	Score  10 	Rings  10
+Genome  661 	Fitness  85 	Xpos  329 	Score  0 	Rings  2
+Genome  662 	Fitness  231 	Xpos  1046 	Score  0 	Rings  1
+Genome  663 	Fitness  433 	Xpos  1854 	Score  0 	Rings  1
+Population's average fitness: 486.10000 stdev: 413.15698
+Best fitness: 960.00000 - size: (17, 3477) - species 1 - id 660
+Average adjusted fitness: 0.620
+Mean genetic distance 0.911, standard deviation 0.261
+Population of 10 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   95    10    960.0    0.620     0
+Total extinctions: 0
+Generation time: 275.059 sec (251.105 average)
+Saving checkpoint to neat-checkpoint-95
+
+ ****** Running generation 96 ****** 
+
+Genome  660 	Fitness  960 	Xpos  3559 	Score  10 	Rings  10
+Genome  581 	Fitness  953 	Xpos  3690 	Score  0 	Rings  5
