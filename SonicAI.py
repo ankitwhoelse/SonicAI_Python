@@ -37,23 +37,23 @@ def eval_genomes(genomes, config):
 
         done = False
         # Voir l'image envoye au le neural network
-        cv2.namedWindow('main', cv2.WINDOW_NORMAL)
+        #cv2.namedWindow('main', cv2.WINDOW_NORMAL)
 
         while not done:
 	    #Voir l'image du jeu normale
-            #env.render()
+            env.render()
 			
             # Voir l'image envoye au le neural network
-            scaledimg = cv2.cvtColor(ob, cv2.COLOR_BGR2RGB)
-            scaledimg = cv2.resize(scaledimg, (iny, inx))
+            #scaledimg = cv2.cvtColor(ob, cv2.COLOR_BGR2RGB)
+            #scaledimg = cv2.resize(scaledimg, (iny, inx))
 
             ob = cv2.resize(ob, (inx, iny))
             ob = cv2.cvtColor(ob, cv2.COLOR_BGR2GRAY)
             ob = np.reshape(ob, (inx,iny))
 
             # Voir l'image envoye au le neural network
-            cv2.imshow('main', scaledimg)
-            cv2.waitKey(1)
+            #cv2.imshow('main', scaledimg)
+            #cv2.waitKey(1)
 
             for x in ob:
                 for y in x:
@@ -122,8 +122,8 @@ config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
 p = neat.Population(config)
 
 #Restaurer un checkpoint
-if (path.isfile('neat-checkpoint-ehz-a1')):
-	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint-ehz-a1')
+if (path.isfile('neat-checkpoint-emz-a1')):
+	p = neat.checkpoint.Checkpointer.restore_checkpoint('neat-checkpoint-emz-a1')
 
 #Statistiques avec NEAT
 p.add_reporter(neat.StdOutReporter(True))
